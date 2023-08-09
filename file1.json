@@ -1,0 +1,9 @@
+{
+  "first": "${TOKEN1}",
+  "second": "second",
+  "third": {
+    "fourth": "${TOKEN2}",
+    "fifth": "${TOKEN1}",
+    "sixth": "TOKEN1"
+  }
+}
